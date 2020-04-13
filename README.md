@@ -1,4 +1,4 @@
-# neuraltran
+# Neuraltran
 
 [![Build Status](https://travis-ci.org/modern-fortran/neural-fortran.svg?branch=master)](https://travis-ci.org/modern-fortran/neural-fortran)
 [![GitHub issues](https://img.shields.io/github/issues/modern-fortran/neural-fortran.svg)](https://github.com/modern-fortran/neural-fortran/issues)
@@ -7,7 +7,7 @@
 [![neuraltran](https://img.shields.io/badge/Artificial%20Intelligence-Neuraltran-black)](https://github.com/GridIO/neural-fortran)
 [![IDE](https://img.shields.io/badge/IDE-Visual%20Studio%202019-black)](https://visualstudio.microsoft.com/vs/)
 
-A parallel neural net microframework. 
+Modern Fortran evolved. 
 Read the paper [here](https://arxiv.org/abs/1902.06714).
 
 * [Features](https://github.com/GridIO/neural-fortran#features)
