@@ -39,7 +39,7 @@ Read the paper [here](https://arxiv.org/abs/1902.06714).
 Get the code:
 
 ```
-git clone https://github.com/modern-fortran/neural-fortran
+git clone https://github.com/gridio/neuraltran
 ```
 
 Dependencies:
