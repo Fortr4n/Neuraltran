@@ -3,7 +3,7 @@
 [![Build Status](https://travis-ci.org/modern-fortran/neural-fortran.svg?branch=master)](https://travis-ci.org/modern-fortran/neural-fortran)
 [![GitHub issues](https://img.shields.io/github/issues/modern-fortran/neural-fortran.svg)](https://github.com/modern-fortran/neural-fortran/issues)
 [![MIT](https://img.shields.io/packagist/l/doctrine/orm.svg)](https://github.com/GridIO/neural-fortran/blob/master/LICENSE) ![Os](https://img.shields.io/badge/Platform-Linux%20|%20OSX%20|%20Windows%20|%20Android-blue.svg)
-[![python](https://img.shields.io/badge/fortran-blue.svg)](https://software.intel.com/en-us/fortran-compiler-developer-guide-and-reference-fortran-2018-features)
+[![Language Base](https://img.shields.io/badge/fortran-blue.svg)](https://software.intel.com/en-us/fortran-compiler-developer-guide-and-reference-fortran-2018-features)
 [![neuraltran](https://img.shields.io/badge/Artificial%20Intelligence-Neuraltran-black)](https://github.com/GridIO/neural-fortran)
 [![IDE](https://img.shields.io/badge/IDE-Visual%20Studio%202019-black)](https://visualstudio.microsoft.com/vs/)
 
