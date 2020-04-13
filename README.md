@@ -1,26 +1,30 @@
-# neural-fortran
+# neuraltran
 
 [![Build Status](https://travis-ci.org/modern-fortran/neural-fortran.svg?branch=master)](https://travis-ci.org/modern-fortran/neural-fortran)
 [![GitHub issues](https://img.shields.io/github/issues/modern-fortran/neural-fortran.svg)](https://github.com/modern-fortran/neural-fortran/issues)
+[![MIT](https://img.shields.io/packagist/l/doctrine/orm.svg)](https://github.com/GridIO/neural-fortran/blob/master/LICENSE) ![Os](https://img.shields.io/badge/Platform-Linux%20|%20OSX%20|%20Windows%20|%20Android-blue.svg)
+[![python](https://img.shields.io/badge/fortran-blue.svg)](https://software.intel.com/en-us/fortran-compiler-developer-guide-and-reference-fortran-2018-features)
+[![neuraltran](https://img.shields.io/badge/Artificial%20Intelligence-Neuraltran-black)](https://github.com/GridIO/neural-fortran)
+[![IDE](https://img.shields.io/badge/IDE-Visual%20Studio%202019-black)](https://visualstudio.microsoft.com/vs/)
 
 A parallel neural net microframework. 
 Read the paper [here](https://arxiv.org/abs/1902.06714).
 
-* [Features](https://github.com/modern-fortran/neural-fortran#features)
-* [Getting started](https://github.com/modern-fortran/neural-fortran#getting-started)
-  - [Building in serial mode](https://github.com/modern-fortran/neural-fortran#building-in-serial-mode)
-  - [Building in parallel mode](https://github.com/modern-fortran/neural-fortran#building-in-parallel-mode)
-  - [Building with a different compiler](https://github.com/modern-fortran/neural-fortran#building-with-a-different-compiler)
-  - [Building with BLAS or MKL](https://github.com/modern-fortran/neural-fortran#building-with-blas-or-mkl)
-  - [Building in double or quad precision](https://github.com/modern-fortran/neural-fortran#building-in-double-or-quad-precision)
-  - [Building in debug mode](https://github.com/modern-fortran/neural-fortran#building-in-debug-mode)
-* [Examples](https://github.com/modern-fortran/neural-fortran#examples)
-  - [Creating a network](https://github.com/modern-fortran/neural-fortran#creating-a-network)
-  - [Training the network](https://github.com/modern-fortran/neural-fortran#training-the-network)
-  - [Saving and loading from file](https://github.com/modern-fortran/neural-fortran#saving-and-loading-from-file)
-  - [MNIST training example](https://github.com/modern-fortran/neural-fortran#mnist-training-example)
- * [Contributing](https://github.com/modern-fortran/neural-fortran#contributing)
- * [Related projects](https://github.com/modern-fortran/neural-fortran#related-projects)
+* [Features](https://github.com/GridIO/neural-fortran#features)
+* [Getting started](https://github.com/GridIO/neural-fortran#getting-started)
+  - [Building in serial mode](https://github.com/GridIO/neural-fortran#building-in-serial-mode)
+  - [Building in parallel mode](https://github.com/GridIO/neural-fortran#building-in-parallel-mode)
+  - [Building with a different compiler](https://github.com/GridIO/neural-fortran#building-with-a-different-compiler)
+  - [Building with BLAS or MKL](https://github.com/GridIO/neural-fortran#building-with-blas-or-mkl)
+  - [Building in double or quad precision](https://github.com/GridIO/neural-fortran#building-in-double-or-quad-precision)
+  - [Building in debug mode](https://github.com/GridIO/neural-fortran#building-in-debug-mode)
+* [Examples](https://github.com/GridIO/neural-fortran#examples)
+  - [Creating a network](https://github.com/GridIO/neural-fortran#creating-a-network)
+  - [Training the network](https://github.com/GridIO/neural-fortran#training-the-network)
+  - [Saving and loading from file](https://github.com/GridIO/neural-fortran#saving-and-loading-from-file)
+  - [MNIST training example](https://github.com/GridIO/neural-fortran#mnist-training-example)
+ * [Contributing](https://github.com/GridIO/neural-fortran#contributing)
+ * [Related projects](https://github.com/GridIO/neural-fortran#related-projects)
 
 ## Features
 
@@ -321,8 +325,8 @@ $ cafrun -n 16 ./example_mnist
 
 ## Contributing
 
-neural-fortran is currently a proof-of-concept with potential for
-use in production. Contributions are welcome, especially for:
+Neuraltran is currently in development
+Contributions are welcome, especially for:
 
 * Expanding the network class to other network infrastructures
 * Adding other cost functions such as cross-entropy.
@@ -330,7 +334,7 @@ use in production. Contributions are welcome, especially for:
 * Adding more examples
 * Others?
 
-You can start at the list of open [issues](https://github.com/modern-fortran/neural-fortran/issues).
+You can start at the list of open [issues](https://github.com/GridIO/neural-fortran/issues).
 
 ## Related projects
 
