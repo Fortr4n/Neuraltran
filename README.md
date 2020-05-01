@@ -45,7 +45,7 @@ git clone https://github.com/gridio/neuraltran
 Dependencies:
 
 * Fortran 2018-compatible compiler
-* OpenCoarrays (optional, for parallel execution, gfortran only)
+* Intel Parallel Studio XE
 * BLAS, MKL (optional)
 
 ### Building in serial mode
