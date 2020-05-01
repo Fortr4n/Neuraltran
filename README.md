@@ -9,7 +9,7 @@
 [![Framework](https://img.shields.io/badge/Framework-Intel%20Parallel%20Studio%20-red)](https://software.intel.com/en-us/parallel-studio-xe)
 
 Modern Fortran evolved. 
-Read the paper [here](https://arxiv.org/abs/1902.06714).
+Read the paper [here]().
 
 * [Features](https://github.com/GridIO/neural-fortran#features)
 * [Getting started](https://github.com/GridIO/neural-fortran#getting-started)
