@@ -6,6 +6,7 @@
 [![Language Base](https://img.shields.io/badge/fortran-blue.svg)](https://software.intel.com/en-us/fortran-compiler-developer-guide-and-reference-fortran-2018-features)
 [![neuraltran](https://img.shields.io/badge/Artificial%20Intelligence-Neuraltran-black)](https://github.com/GridIO/neural-fortran)
 [![IDE](https://img.shields.io/badge/IDE-Visual%20Studio%202019-black)](https://visualstudio.microsoft.com/vs/)
+[![Framework](https://img.shields.io/badge/Framework-Intel%20Parallel%20Studio%20-grey)](https://software.intel.com/en-us/parallel-studio-xe)
 
 Modern Fortran evolved. 
 Read the paper [here](https://arxiv.org/abs/1902.06714).
