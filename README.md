@@ -11,21 +11,21 @@
 Modern Fortran evolved. 
 Read the paper [here]().
 
-* [Features](https://github.com/GridIO/neural-fortran#features)
-* [Getting started](https://github.com/GridIO/neural-fortran#getting-started)
-  - [Building in serial mode](https://github.com/GridIO/neural-fortran#building-in-serial-mode)
-  - [Building in parallel mode](https://github.com/GridIO/neural-fortran#building-in-parallel-mode)
-  - [Building with a different compiler](https://github.com/GridIO/neural-fortran#building-with-a-different-compiler)
-  - [Building with BLAS or MKL](https://github.com/GridIO/neural-fortran#building-with-blas-or-mkl)
-  - [Building in double or quad precision](https://github.com/GridIO/neural-fortran#building-in-double-or-quad-precision)
-  - [Building in debug mode](https://github.com/GridIO/neural-fortran#building-in-debug-mode)
-* [Examples](https://github.com/GridIO/neural-fortran#examples)
-  - [Creating a network](https://github.com/GridIO/neural-fortran#creating-a-network)
-  - [Training the network](https://github.com/GridIO/neural-fortran#training-the-network)
-  - [Saving and loading from file](https://github.com/GridIO/neural-fortran#saving-and-loading-from-file)
-  - [MNIST training example](https://github.com/GridIO/neural-fortran#mnist-training-example)
- * [Contributing](https://github.com/GridIO/neural-fortran#contributing)
- * [Related projects](https://github.com/GridIO/neural-fortran#related-projects)
+* [Features](https://github.com/Fortr4n/neural-fortran#features)
+* [Getting started](https://github.com/Fortr4n/neural-fortran#getting-started)
+  - [Building in serial mode](https://github.com/Fortr4n/neural-fortran#building-in-serial-mode)
+  - [Building in parallel mode](https://github.com/Fortr4n/neural-fortran#building-in-parallel-mode)
+  - [Building with a different compiler](https://github.com/Fortr4n/neural-fortran#building-with-a-different-compiler)
+  - [Building with BLAS or MKL](https://github.com/Fortr4n/neural-fortran#building-with-blas-or-mkl)
+  - [Building in double or quad precision](https://github.com/Fortr4n/neural-fortran#building-in-double-or-quad-precision)
+  - [Building in debug mode](https://github.com/Fortr4n/neural-fortran#building-in-debug-mode)
+* [Examples](https://github.com/Fortr4n/neural-fortran#examples)
+  - [Creating a network](https://github.com/Fortr4n/neural-fortran#creating-a-network)
+  - [Training the network](https://github.com/Fortr4n/neural-fortran#training-the-network)
+  - [Saving and loading from file](https://github.com/Fortr4n/neural-fortran#saving-and-loading-from-file)
+  - [MNIST training example](https://github.com/Fortr4n/neural-fortran#mnist-training-example)
+ * [Contributing](https://github.com/Fortr4n/neural-fortran#contributing)
+ * [Related projects](https://github.com/Fortr4n/neural-fortran#related-projects)
 
 ## Features
 
@@ -40,7 +40,7 @@ Read the paper [here]().
 Get the code:
 
 ```
-git clone https://github.com/gridio/neuraltran
+git clone https://github.com/Fortr4n/neuraltran
 ```
 
 Dependencies:
